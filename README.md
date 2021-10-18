@@ -3,8 +3,6 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... ML, Three.js, Virtual Reality
 - 💞️ I’m looking to collaborate on ...
-
-
 <br>
 
 
@@ -20,8 +18,6 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <br>
 </p>
-
-
 <br>
 
 
@@ -32,20 +28,16 @@
   <a href="https://www.kaggle.com/dolphinkr" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
   <a href="mailto:idolphin.kr@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
-
-
 <br>
 
 
-<div align="center">
-  
+<div align="center">  
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDolphin99&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDolphin99&layout=compact)](https://github.com/iDolphin99/github-readme-stats)
+
 </div>
-
-
 <br>
-
 
 
  <div id="Hits" align="center">
