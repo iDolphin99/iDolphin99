@@ -1,8 +1,7 @@
 
 - 👋 Hi, I’m @iDolphin99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... ML, Three.js, Virtual Reality
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... ML, DL, Computer Vision, Virtual Reality... 
+
 <br>
 
 
