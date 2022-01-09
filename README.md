@@ -1,7 +1,7 @@
 ### 👋&nbsp; Hi there! I'm <b> @iDolphin99</b> <br/> 
 <p>
  I’m currently learning ML, DL, Computer Vision, Virtual Reality. 
-</p><br>
+</p>
 
 
 ### ✨ Tech Stack
@@ -21,7 +21,7 @@ Languages & Platforms & Techs that I've used at least once</b>
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
-</p><br>
+</p>
 
 
 ### 🐬 Contact Me
@@ -31,11 +31,11 @@ Languages & Platforms & Techs that I've used at least once</b>
 </p><br>
 
 
-<p>    
+<div style="display: flex; flex-direction: row;">    
  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDolphin99&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDolphin99&layout=compact)](https://github.com/iDolphin99/github-readme-stats)
-</p><br>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDolphin99&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDolphin99&layout=compact)](https://github.com/iDolphin99/github-readme-stats)
+</div></br>
 
 
  <div id="Hits" align="center">
