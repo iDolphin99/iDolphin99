@@ -28,6 +28,7 @@ Languages & Platforms & Techs that I've used at least once</b>
 <p>
   <a href="https://www.kaggle.com/dolphinkr" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
   <a href="mailto:idolphin.kr@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+  <a href="https://www.linkedin.com/in/hyeongbin-park-20080124b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=#0A66C2"/></a>
 </p><br>
 
 
