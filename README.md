@@ -43,6 +43,11 @@ Languages & Libraries & Development Tools </b>
  <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat-square&logo=googlemeet&logoColor=white"/></a>
 </p>
 
+### 👀Portfolio & CV
+<p>
+ <a href="https://drive.google.com/file/d/1l0X7M3BnhejhnpaeoLCNgoKkYq5R9upF/view?usp=drive_link"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a>
+</p>
+
 
 ### 🐬 Contact Me
 <p>
